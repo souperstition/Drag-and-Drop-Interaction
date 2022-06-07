@@ -2,4 +2,4 @@
 Drag and drop interaction done in storyline
 
 
-<a href="https://daniellelyle.s3.eu-central-1.amazonaws.com/gmajor/story.html">Live Demo</a>
+<a href="https://itsdani.me/sl/gmajor/story.html">Live Demo</a>
