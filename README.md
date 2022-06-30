@@ -56,9 +56,7 @@ That's really all there was to building the drag and drop portion of this projec
 
 Once this exercise was complete, the students are directed to the practice slide.
 
-### :notes: The Practice Slide 
-
-:top: [[top]](#bookmark_tabs-table-of-contents)
+### :notes: The Practice Slide :top: [[top]](#bookmark_tabs-table-of-contents)
 
 There's actually quite a bit more to making this slide work, despite it appearing more simple. To start out, let's look at my slide layers:
 
@@ -89,9 +87,7 @@ The flute fingering layers appear when a note is clicked on the base layer.
 | Just a button to close the layer here |
 | ![fingering layer](https://github.com/souperstition/Gmajor-Scale-Drag-and-Drop-Interaction/blob/master/img/fingering-layer.png?raw=true) |
 
-### :control_knobs: Media Controls
-
-:top: [[top]](#bookmark_tabs-table-of-contents)
+### :control_knobs: Media Controls :top: [[top]](#bookmark_tabs-table-of-contents)
 
 The music controls were made by adding triggers to the buttons that would either show or hide the music layer, as well as pausing or resuming the timeline on that layer.
 
