@@ -2,18 +2,19 @@
 
 A drag and drop interaction done in Articulate Storyline.
 
+:computer: [Live Demo](https://souperstition.github.io/Drag-and-Drop-Interaction/)
+
 ## :bookmark_tabs: Table of Contents
+- [Purpose](#chart_with_upwards_trend-purpose-top)
+- [Project Overview](#mag_right-project-overview-top)
+- [Build Process](#triangular_ruler-build-process-top)
+- [Results](#partying_face-results-top)
 
-- [Purpose](#chartwithupwardstrend-purpose-top)
-- [Project Overview](#magright-project-overview-top)
-- [Build Process](#triangularruler-build-process-top)
-- [Results](#partyingface-results-top)
-
-## :chart_with_upwards_trend: Purpose [:top:](#bookmarktabs-table-of-contents) 
+## :chart_with_upwards_trend: Purpose [:top:](#bookmark_tabs-table-of-contents) 
 
 Last year, I was teaching a group of students how to read music. The students had no trouble learning the notes; in fact, they learned them quickly and at a very competent skill level. However, they could not recall the information after a few days and had to relearn the information from scratch, resulting in an endless cycle of reteaching. I wondered if there might be a better teaching strategy, and identified a need for more engaging practice aids to assist them between lessons. This interaction was one such solution.
 
-## :mag_right: Project Overview [:top:](#bookmarktabs-table-of-contents) 
+## :mag_right: Project Overview [:top:](#bookmark_tabs-table-of-contents) 
 
 First, the student is taken to a slide where notes are shuffled into a random order at the bottom of the screen.
 
@@ -35,7 +36,7 @@ They can also click on any note to see its flute fingering.
 
 ![flute fingerings](https://github.com/souperstition/Gmajor-Scale-Drag-and-Drop-Interaction/blob/master/img/flute-fingerings.gif?raw=true)
 
-## :triangular_ruler: Build Process [:top:](#bookmarktabs-table-of-contents) 
+## :triangular_ruler: Build Process [:top:](#bookmark_tabs-table-of-contents) 
 
 ### :wrench: Building the Drag and Drop Interaction
 
@@ -57,7 +58,7 @@ Once this exercise was complete, the students are directed to the practice slide
 
 ### :notes: The Practice Slide 
 
-:top: [[top]](#bookmarktabs-table-of-contents)
+:top: [[top]](#bookmark_tabs-table-of-contents)
 
 There's actually quite a bit more to making this slide work, despite it appearing more simple. To start out, let's look at my slide layers:
 
@@ -90,16 +91,16 @@ The flute fingering layers appear when a note is clicked on the base layer.
 
 ### :control_knobs: Media Controls
 
-:top: [[top]](#bookmarktabs-table-of-contents)
+:top: [[top]](#bookmark_tabs-table-of-contents)
 
 The music controls were made by adding triggers to the buttons that would either show or hide the music layer, as well as pausing or resuming the timeline on that layer.
 
 ![music controls](https://github.com/souperstition/Gmajor-Scale-Drag-and-Drop-Interaction/blob/master/img/music-controls.png?raw=true)
 
-## :partying_face: Results [:top:](#bookmarktabs-table-of-contents)
+## :partying_face: Results [:top:](#bookmark_tabs-table-of-contents)
 
 After introducing this practice aid, I noticed an immediate increase in the confidence and enthusiasm levels in the classroom. The students were eager to practice and show off their new skills. 
 
 This increased confidence turned out to be a huge key in propelling my students forward. The number of students who practiced at home increased by more than half, and the need for reteaching decreased dramatically.
 
-:top: [back to top](#bookmarktabs-table-of-contents)
+:top: [back to top](#bookmark_tabs-table-of-contents)
